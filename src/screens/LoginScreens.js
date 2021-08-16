@@ -123,7 +123,7 @@ const styles = StyleSheet.create({
     },
     btn2Text:{
         color:'#6036b1',
-        marginLeft: 5,
+        marginLeft: 7,
         marginTop:2,
         fontSize: 16,
        
